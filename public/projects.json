@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "category": "mobile apps",
+      "name": "Mobile App 1",
+      "image": "24.png",
+      "description": "A mobile application developed for user .",
+      "technologies": ["React","Angular"],
+      "role": "Lead Developer",
+      "link": "https://example.com/mobile-app-1"
+    },
+    {
+      "id": 2,
+      "category": "web app",
+      "name": "Web App 1",
+      "image": "2.png",
+      "description": "A web application for e-commerce solutions.",
+      "technologies": ["React"],
+      "role": "Junior Developer",
+      "link": "https://example.com/web-app-1"
+    },
+    {
+      "id": 3,
+      "category": "desktop app",
+      "name": "Desktop App 1",
+      "image": "25.png",
+      "description": "A desktop application for managing local data.",
+      "technologies": ["Electron"],
+      "role": "Senior Developer",
+      "link": "https://example.com/desktop-app-1"
+    },
+    {
+      "id": 4,
+      "category": "other",
+      "name": "Other Project 1",
+      "image": "26.png",
+      "description": "A unique project not categorized as mobile, web, or desktop.",
+      "technologies": ["Python"],
+      "role": "Senior Developer",
+      "link": "https://example.com/other-project-1"
+    },
+    {
+        "id": 5,
+        "category": "web app",
+        "name": "Web App 2",
+        "image": "27.png",
+        "description": "A unique project not categorized as mobile, web, or desktop.",
+        "technologies": ["Python"],
+        "role": "Front-end Developer",
+        "link": "https://example.com/other-project-1"
+      }
+  ]
+  
